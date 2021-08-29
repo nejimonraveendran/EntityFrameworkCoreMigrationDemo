@@ -4,9 +4,13 @@ Migrations documentation: https://docs.microsoft.com/en-us/ef/core/cli/dotnet
 
 Prerequisites:
 Install-Package Microsoft.EntityFrameworkCore -Version 5.0.9
+
 Install-Package Microsoft.EntityFrameworkCore.Tools -Version 5.0.9 
+
 Install-Package Microsoft.EntityFrameworkCore.Design -Version 5.0.9
+
 Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 5.0.9
+
 Install-Package Microsoft.Extensions.Configuration.Json -Version 5.0.0
 
 
