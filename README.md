@@ -3,6 +3,7 @@ This repository demonstrates how DB schema migrations can be done in Entity Fram
 Migrations documentation: https://docs.microsoft.com/en-us/ef/core/cli/dotnet
 
 Prerequisites:
+
 Install-Package Microsoft.EntityFrameworkCore -Version 5.0.9
 
 Install-Package Microsoft.EntityFrameworkCore.Tools -Version 5.0.9 
