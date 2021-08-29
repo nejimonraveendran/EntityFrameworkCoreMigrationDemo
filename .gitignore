@@ -3,3 +3,6 @@
 ################################################################################
 
 /EfCoreMigrationDemo/EfCoreMigrationDemo.Data/bin/Debug/netcoreapp3.1
+/EfCoreMigrationDemo/EfCoreMigrationDemo.Data/obj
+/.vs
+/EfCoreMigrationDemo/.vs/EfCoreMigrationDemo/v16

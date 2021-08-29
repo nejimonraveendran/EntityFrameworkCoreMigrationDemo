@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreMigrationDemo.Data", "EfCoreMigrationDemo.Data\EfCoreMigrationDemo.Data.csproj", "{20D5273E-F962-4F3F-A344-215208B8F7A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{68FFA19C-2A00-42D1-B4EB-3225485D8776}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20D5273E-F962-4F3F-A344-215208B8F7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D5273E-F962-4F3F-A344-215208B8F7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D5273E-F962-4F3F-A344-215208B8F7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D5273E-F962-4F3F-A344-215208B8F7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53AC5F31-F9E6-4D6F-8CAD-72496AA78F95}
+	EndGlobalSection
+EndGlobal
