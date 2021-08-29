@@ -9,6 +9,7 @@ Install-Package Microsoft.EntityFrameworkCore.Design -Version 5.0.9
 Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 5.0.9
 Install-Package Microsoft.Extensions.Configuration.Json -Version 5.0.0
 
+
 if not already done:
 dotnet tool install --global dotnet-ef  //from package manager console, to install dotnet cli tools
 dotnet tool update --global dotnet-ef
