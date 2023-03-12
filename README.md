@@ -1,4 +1,4 @@
-# EntityFrameworkCoreMigrationDemo
+# Entity Framework Core Migration Demo
 This repository demonstrates how DB schema migrations can be done in Entity Framework Core
 Migrations documentation: https://docs.microsoft.com/en-us/ef/core/cli/dotnet
 
